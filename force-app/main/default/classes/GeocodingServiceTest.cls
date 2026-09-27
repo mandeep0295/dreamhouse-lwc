@@ -1,7 +1,7 @@
 @isTest
 private with sharing class GeocodingServiceTest {
     private static final String STREET = 'Camino del Jueves 26';
-    private static final String CITY = 'Armilla';
+    private static final String CITY = 'Geo';
     private static final String POSTAL_CODE = '18100';
     private static final String STATE = 'Granada';
     private static final String COUNTRY = 'Spain';
